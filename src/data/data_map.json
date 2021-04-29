@@ -1,0 +1,104 @@
+[
+  {
+    "start_point": "Manund",
+    "end_point": "T.B Hospital, patan",
+    "distance_km": "25.2 km",
+    "image_url": "map_image/manud.png"
+  },
+  {
+    "start_point": "Sariyad",
+    "end_point": "sadbhav hospital, patan",
+    "distance_km": "17.9 km",
+    "image_url": "map_image/sariyad.png"
+  },
+  {
+    "start_point": "Charup",
+    "end_point": "sadbhav hospital, patan",
+    "distance_km": "12.8 km",
+    "image_url": "map_image/charup.png"
+  },
+  {
+    "start_point": "Kotvad",
+    "end_point": "T.B Hospital, patan",
+    "distance_km": "13 km",
+    "image_url": "map_image/kotvad.png"
+  },
+  {
+    "start_point": "veloda",
+    "end_point": "T.B Hospital, patan",
+    "distance_km": "26.7 km",
+    "image_url": "map_image/veloda.png"
+  },
+  {
+    "start_point": "Sarva",
+    "end_point": "Dharpur civil hospital",
+    "distance_km": "5.6 km",
+    "image_url": "map_image/sarva.png"
+  },
+  {
+    "start_point": "Sankhari",
+    "end_point": "Dharpur civil hospital",
+    "distance_km": "10.9 km",
+    "image_url": "map_image/sankhari.png"
+  },
+  {
+    "start_point": "Bakratpur",
+    "end_point": "T.B Hospital, patan",
+    "distance_km": "7.1 km",
+    "image_url": "map_image/baktrapur.png"
+  },
+  {
+    "start_point": "Gaja",
+    "end_point": "Janta Hospital, patan",
+    "distance_km": "7.5 km",
+    "image_url": "map_image/gaja.png"
+  },
+  {
+    "start_point": "Borsan",
+    "end_point": "Janta Hospital, patan",
+    "distance_km": "6 km",
+    "image_url": "map_image/borsan.png"
+  },
+  {
+    "start_point": "Ajimana",
+    "end_point": "Janta Hospital, patan",
+    "distance_km": "6.5 km",
+    "image_url": "map_image/ajimana.png"
+  },
+  {
+    "start_point": "Kimbuva",
+    "end_point": "Sadbhav Hospital, patan",
+    "distance_km": "12.5 km",
+    "image_url": "map_image/kimbuva.png"
+  },
+  {
+    "start_point": "Der",
+    "end_point": "Sadbhav Hospital, patan",
+    "distance_km": "7.1 km",
+    "image_url": "map_image/der.png"
+  },
+  {
+    "start_point": "Derasana",
+    "end_point": "T.B Hospital, patan",
+    "distance_km": "22.5 km",
+    "image_url": "map_image/derasana.png"
+  },
+  {
+    "start_point": "Ruvavi",
+    "end_point": "Dharpur civil hospital",
+    "distance_km": "15.6 km",
+    "image_url": "map_image/ruvavi.png"
+  },
+  {
+    "start_point": "Ranuj",
+    "end_point": "Dharpur civil hospital",
+    "distance_km": "12 km",
+    "image_url": "map_image/ranuj.png"
+  },
+  {
+    "start_point": "Norta",
+    "end_point": "T.B Hospital, patan",
+    "distance_km": "10.2 km",
+    "image_url": "map_image/norta.png"
+  }
+]
